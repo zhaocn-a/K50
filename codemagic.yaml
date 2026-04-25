@@ -6,8 +6,11 @@ workflows:
     environment:
       java: 11
     scripts:
-      - name: Grant execute permission
-        script: chmod +x gradlew
+      - name: Fix line endings and permissions
+        script: |
+          apt-get install -y dos2unix
+          dos2unix gradlew
+          chmod +x gradlew
       - name: Build debug APK
         script: ./gradlew assembleDebug
     artifacts:
