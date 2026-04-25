@@ -4,10 +4,9 @@ workflows:
     max_build_duration: 30
     instance_type: mac_mini_m1
     environment:
-      android: 34
       java: 11
     scripts:
-      - name: Grant execute permission for gradlew
+      - name: Grant execute permission
         script: chmod +x gradlew
       - name: Build debug APK
         script: ./gradlew assembleDebug
