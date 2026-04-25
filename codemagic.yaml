@@ -6,7 +6,7 @@ workflows:
     environment:
       java: 11
     scripts:
-      - name: Build APK
-        script: ./gradlew assembleDebug
+      - chmod +x gradlew
+      - ./gradlew assembleDebug
     artifacts:
       - app/build/outputs/apk/debug/*.apk
