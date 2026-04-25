@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DynamicOasis K50</string>
+    <string name="app_name_full">DynamicOasis K50 灵动岛</string>
+    
+    <!-- 设备信息 -->
+    <string name="device_model">红米K50</string>
+    <string name="device_description">居中挖孔屏 | 2K AMOLED | 5500mAh | 67W快充</string>
+    
+    <!-- 权限 -->
+    <string name="permission_overlay_title">悬浮窗权限</string>
+    <string name="permission_overlay_message">灵动岛需要在其他应用上层显示，请授权。</string>
+    <string name="permission_notification_title">通知访问权限</string>
+    <string name="permission_notification_message">灵动岛需要访问通知来显示消息通知，请授权。</string>
+    
+    <!-- 状态 -->
+    <string name="status_running">运行中</string>
+    <string name="status_stopped">已停止</string>
+    <string name="status_permission_ready">权限已就绪</string>
+    <string name="status_permission_required">需要权限</string>
+    
+    <!-- 功能 -->
+    <string name="feature_charging">充电状态提示</string>
+    <string name="feature_turbo_charging">涡轮快充提示 (67W)</string>
+    <string name="feature_low_battery">低电量提示</string>
+    <string name="feature_network">网络状态提示</string>
+    <string name="feature_notifications">通知消息提示</string>
+    <string name="feature_alarm">闹钟提示</string>
+    <string name="feature_torch">手电筒提示</string>
+    <string name="feature_bluetooth">蓝牙提示</string>
+    <string name="feature_unlock">解锁提示</string>
+    
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="settings_display">显示设置</string>
+    <string name="settings_size">大小</string>
+    <string name="settings_opacity">透明度</string>
+    <string name="settings_animation">动画风格</string>
+    <string name="settings_position">位置模式</string>
+    <string name="settings_auto_start">开机自启</string>
+    <string name="settings_turbo_charging">涡轮快充显示</string>
+    
+    <!-- 位置模式 -->
+    <string name="position_center">居中 (K50推荐)</string>
+    <string name="position_left">偏左</string>
+    <string name="position_right">偏右</string>
+    
+    <!-- 通知 -->
+    <string name="notification_channel_service">灵动岛服务</string>
+    <string name="notification_channel_alerts">灵动岛提醒</string>
+    <string name="notification_service_title">DynamicOasis K50 运行中</string>
+    <string name="notification_service_text">红米K50灵动岛适配版</string>
+    
+    <!-- 状态提示 -->
+    <string name="state_charging">充电中</string>
+    <string name="state_fast_charging">快速充电</string>
+    <string name="state_turbo_charging">涡轮快充 67W</string>
+    <string name="state_full_battery">已充满</string>
+    <string name="state_low_battery">低电量</string>
+    <string name="state_no_network">无网络</string>
+    <string name="state_network_connected">已连接</string>
+    <string name="state_bluetooth_connected">蓝牙已连接</string>
+    <string name="state_bluetooth_disconnected">蓝牙已断开</string>
+    <string name="state_torch_on">手电筒已开启</string>
+    <string name="state_torch_off">手电筒已关闭</string>
+    <string name="state_unlock">已解锁</string>
+    <string name="state_alarm">闹钟</string>
+    
+    <!-- K50电池信息 -->
+    <string name="battery_capacity">5500mAh</string>
+    <string name="charging_power">67W</string>
+    <string name="charging_time_estimate">约48分钟充满</string>
+    
+    <!-- 引导 -->
+    <string name="onboarding_welcome">欢迎使用 DynamicOasis K50</string>
+    <string name="onboarding_description">专为红米K50居中挖孔屏设计的灵动岛应用</string>
+    <string name="onboarding_step_permissions">授权必要权限</string>
+    <string name="onboarding_step_start">启动灵动岛服务</string>
+    <string name="onboarding_step_ready">准备就绪</string>
+</resources>

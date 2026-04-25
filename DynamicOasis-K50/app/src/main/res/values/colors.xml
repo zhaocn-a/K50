@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="color_primary">#4CAF50</color>
+    <color name="color_primary_dark">#388E3C</color>
+    <color name="color_primary_light">#81C784</color>
+    <color name="color_secondary">#2196F3</color>
+    <color name="color_secondary_dark">#1976D2</color>
+    
+    <!-- 状态颜色 -->
+    <color name="color_warning">#FFC107</color>
+    <color name="color_error">#F44336</color>
+    <color name="color_success">#4CAF50</color>
+    
+    <!-- 功能颜色 -->
+    <color name="color_charging">#FFC107</color>
+    <color name="color_battery_low">#F44336</color>
+    <color name="color_network">#2196F3</color>
+    <color name="color_notification">#9C27B0</color>
+    <color name="color_alarm">#FF5722</color>
+    <color name="color_flashlight">#FFEB3B</color>
+    <color name="color_bluetooth">#03A9F4</color>
+    <color name="color_unlock">#8BC34A</color>
+    
+    <!-- 背景颜色 -->
+    <color name="background_dark">#121212</color>
+    <color name="background_darker">#0A0A0A</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="card_background_light">#2D2D2D</color>
+    
+    <!-- 文字颜色 -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_tertiary">#66FFFFFF</color>
+    
+    <!-- 其他 -->
+    <color name="divider">#1FFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_70">#B3FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_alpha_50">#80000000</color>
+    
+    <!-- 灵动岛颜色 -->
+    <color name="island_background">#E6121212</color>
+    <color name="island_text">#FFFFFF</color>
+    <color name="island_text_secondary">#B3FFFFFF</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 灵动岛形状 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,44h40c5.5,0 10,4.5 10,10s-4.5,10 -10,10H34c-5.5,0 -10,-4.5 -10,-10s4.5,-10 10,-10z" />
+    <!-- 闪电图标 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,48l-5,10h8l-5,10l2,-10h-6l3,-10z" />
+</vector>
